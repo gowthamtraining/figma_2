@@ -1,0 +1,208 @@
+@media only screen and (max-width: 1440px){
+    .container{
+        width: 100%;
+    }
+    .navbar nav{
+        transform: translateX(-115px);
+    }
+    .card1{
+        gap:20px
+    }
+    .card2{
+        gap:60px
+    }
+}
+@media only screen and (max-width: 1024px){
+    .content img{
+        left: 460px;
+    }
+    .navbar nav{
+        /* width: max-content; */
+        transform: translateX(-244px);
+    }
+    .navbar{
+        width: max-content;
+    }
+    .days p{
+        width: 646px;
+    }
+    .payment-option figure .f2{
+        width: 100%;
+    }
+    .card2 {
+        gap: 21px;
+    }
+    .card1 {
+        gap: 85px;
+    }
+    .card>div {
+        width: 300px;
+        height: 330px;}
+    .company>div {
+        width: 143px;
+        height: 103px;}
+    .package h1{
+        width: 42%;
+    }
+    .cost{
+        width: 93%;
+        transform: translateX(37px);
+    }
+    .money img {
+        transform: translateY(76px);
+    }
+}
+@media only screen and (max-width: 768px){
+    .text h1{
+        font-size: 29px;
+        line-height: 45px;
+        margin-bottom: 9px;
+    }
+    .text p{
+        font-size: 9px;
+        line-height: 22px;
+        margin-bottom: 15px;
+        width: 108%;
+    }
+    .content button {
+        width: 125px;
+        height: 57.32px;
+        border-radius: 8px;
+    }    
+    .content img{
+        left: 316px;
+        width: 437px;
+        top: 180px;
+    }
+    .text{
+        left: 29px;
+        top: 233px;
+    }
+    header{
+        width: 100%;
+    }
+    .navbar nav {
+        transform: translateX(-368px);
+    }
+    nav a{
+        font-size: 12px;
+        line-height: 20px;
+        margin-right: 42px;
+    }
+    .logo h1{
+        font-size: 18.2px;
+        line-height: 22px;
+    }
+    .logo img{
+    font-size: 18.2px;
+    line-height: 22px;
+    }
+    .hostingor img {
+        width: 94%;
+        height: 389px;
+    }
+    .days h1{
+        font-size: 30px;
+    }
+    .days p {
+        width: 508px;
+        font-size: 13px;
+    }
+    .f1{
+        width: 91%;
+    }
+    .rocket div {
+        width: 503px;
+    }
+    .navbar {
+        width: 92%;
+    }
+    .card p{
+        line-height: 27px;
+        font-size: 13px;
+    }
+    .card>div {
+        width: 232px;
+        height: 334px;
+    }
+    .company>div {
+        width: 109px;
+        height: 90px;
+    }
+    .text1 h2 {
+        font-size: 22px;
+        line-height: 42px;
+    }
+    .text1 p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .response>div{
+        width: 229px;
+        height: 270px;
+    }
+    .response img {
+        transform: translateY(8px);
+        width: 70px;
+        height: 70px;
+    }
+    .response h4{
+        font-size: 20px;
+        line-height: 27px;
+        transform: translateY(-9px);
+    }
+    .response p{
+        font-size: 11px;
+        line-height: 27px;
+        transform: translateY(-20px);
+    }
+    .h6 p{
+        width: 93%;
+    }
+    .h6 h2{
+        font-size: 30px;
+    }
+    .rocket h2 {
+        font-size: 29px;
+        width: 76%;
+    }
+    .rocket p {
+        width: 101%;
+    }
+    .rocket img {
+        height: 165px;
+        width: 165px;
+    }
+    .card2 {
+        gap: 37px;
+    }
+    .card1 {
+        gap: 0px;
+    }
+    .hosting p {
+        font-size: 7px;
+        line-height: 16px;
+    }
+    .hosting h1{
+        font-size: 22px;
+        line-height: 49px;
+        width: 73%;
+    }
+    .BusinessPackage {
+        height: 360px;
+        width: 460px;
+    }
+    .cost{
+        width: 94%;
+        transform: translateX(23px);
+    }
+    .package h1 {
+        width: 57%;
+    }
+    .money img {
+        width: 200px;
+        height: 249px;}
+    .days{
+        width: 491px;
+    }
+}
